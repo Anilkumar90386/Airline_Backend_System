@@ -37,7 +37,7 @@ const prepareAndStartServer = () => {
         // console.log(response);
 
         // const userService = new UserService();
-        // const newToken = userService.createToken({email: 'ganeshguvvala2@gmail.com', id:1});
+        // const newToken = userService.createToken({email: 'anilkumarkasi0386@gmail.com', id:1});
         // console.log(newToken);
 
         // const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdhbmVzaGd1dnZhbGEyQGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE3MDkxNzU4MTgsImV4cCI6MTcwOTE3NTgyOH0.QjVDK6nvKHPW-oXozsaCnUzFU4P3BkAC7w01aFtHnFI';
